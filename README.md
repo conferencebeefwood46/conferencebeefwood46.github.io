@@ -1,1 +1,1 @@
-left-both-right nlp ex3rc1se 
+LEFT-RIGHT-BOTH NEUROBIC EX3RC1SE

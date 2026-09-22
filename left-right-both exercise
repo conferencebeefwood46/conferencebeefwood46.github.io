@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Random Caller</title>
+<title>left-right-both</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet">
@@ -186,7 +186,7 @@
 <div id="wordDisplay"></div>
 <div id="summary"></div>
 <button id="startBtn">Start</button>
-<div id="credit">developed by sv</div>
+<div id="credit">made by sv</div>
 
 <script>
   const WORDS = ["left", "right", "both"];
